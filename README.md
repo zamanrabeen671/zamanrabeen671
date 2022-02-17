@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Kamruzzaman</h1>
+<h1 align="center">Hi 👋, I'm MD Kamruzzaman</h1>
 <h3 align="center">A passionate JavaScript developer from Bangladesh</h3>
 <h2><a href="https://drive.google.com/uc?export=download&amp;id=140tN0TTAbMx2NSnMo8-JElVWfy88TgVh" className="btn btn-outline-info">Donwload My Resume</a></h2>
 
