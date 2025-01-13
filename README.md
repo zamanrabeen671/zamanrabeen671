@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zamanrabeen671" alt="zamanrabeen671" /></a> </p>
 
-- 🌱 I’m currently working on **AWJ WEB Services, Typescript, React JS, Node JS, Express JS, Nest JS , MySQL, MongoDB**
+- 🌱 I’m currently working on **AWS WEB Services, Typescript, React JS, Node JS, Express JS, Nest JS , MySQL, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://rabeen-portfolio.netlify.app/](https://rabeen-portfolio.netlify.app/)
 
-- 💬 Ask me about **aws web services, React, node,javascript**
+- 💬 Ask me about **aws web services, React, node, javascript**
 
 - 📫 How to reach me **mdzamanrabin@gmail.com**
 
