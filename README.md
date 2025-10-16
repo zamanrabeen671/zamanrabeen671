@@ -1,8 +1,8 @@
 
 <div>
-    <img align="right" src="./assets/mangiffy.gif" alt="fatematzuhora" width="350" />
+    <img align="right" src="./mangiffy.gif" alt="fatematzuhora" width="350" />
     <span>
-        <h2><img src="./assets/hi.gif" alt="hi.gif" width="26" /> Hi, Nice to have you here!</h2>
+        <h2><img src="./hi.gif" alt="hi.gif" width="26" /> Hi, Nice to have you here!</h2>
         <p>
             I'm <b>'m MD Kamruzzaman</b>. Self-taught programmer, an excellent debugger 🔬, problem solver, quick learner, and 👩🏽‍💻 Full Stack Software Engineer with a can-do attitude. <br /> <br />
             I primarily immerse myself in the realm of JavaScript-based technology, where my expertise thrives, and occasionally venturing into the world of Python-based technology.
