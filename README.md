@@ -136,5 +136,7 @@
   </div>
   <br />
  
-  <img src="https://activity-graph.herokuapp.com/graph?username=zamanrabeen671&theme=github" alt="contribution graph" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zamanrabeen671&theme=nightowl" alt="zamanrabeen671's GitHub streak" />
+</p>
 </div>
