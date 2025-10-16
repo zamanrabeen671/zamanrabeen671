@@ -82,7 +82,6 @@
     </p>
 </div>
 <div>
-    <details>
         <summary><h3>GitHub Analytics 📈</h3></summary>
         <div align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=zamanrabeen671&show_icons=true&count_private=true&theme=nightowl" />
@@ -93,5 +92,4 @@
         <p>
             <i>NOTE: Top languages are all about a metric by GitHub itself, which basically indicates on which languages I have coded the most on GitHub.</i>
         </p>
-    </details>
 </div>
