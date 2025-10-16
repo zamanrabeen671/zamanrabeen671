@@ -135,7 +135,9 @@
     <img src="https://img.shields.io/badge/Total%20Contributions-2500+-blue?style=for-the-badge&logo=github" />
   </div>
   <br />
-  <p>
-    <i>NOTE: Top languages are all about a metric by GitHub itself, which basically indicates on which languages I have coded the most on GitHub.</i>
-  </p>
+ 
+   <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=zamanrabeen671&show_icons=true&count_private=true&theme=nightowl" width="420" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zamanrabeen671&theme=nightowl" width="420" />
+    </P>
 </div>
