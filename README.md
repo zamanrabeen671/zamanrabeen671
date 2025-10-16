@@ -16,13 +16,46 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/140tN0TTAbMx2NSnMo8-JElVWfy88TgVh/view?usp=sharing](https://drive.google.com/file/d/140tN0TTAbMx2NSnMo8-JElVWfy88TgVh/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zaman-671-static/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zaman-671-static/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rabeen.static.671.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rabeen.static.671.io" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/zaman_rabeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zaman_rabeen/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/zaman671" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/zaman671" height="30" width="40" /></a>
-</p>
+<div>
+    <h3>Getting in touch 🤗</h3>
+    <p>
+        <a href="https://www.linkedin.com/in/zaman-rabeen" target="_blank" title="Linkedin">
+            <img
+                width="24"
+                alt="Linkedin"
+                src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+            />
+        </a>
+        <a href="https://stackoverflow.com/users/5403883/zaman-rabeen" target="_blank" title="Stackoverflow">
+            <img
+                width="24"
+                alt="Stackoverflow"
+                src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"
+            />
+        </a>
+        <a href="https://medium.com/@zamanrabeen" target="_blank" title="Medium">
+            <img
+                width="24"
+                alt="Medium"
+                src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"
+            />
+        </a>
+        <a href="https://twitter.com/zamanrabeen" target="_blank" title="Twitter">
+            <img
+                width="24"
+                alt="Twitter"
+                src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"
+            />
+        </a>
+        <a href="https://www.instagram.com/zamanrabeen" target="_blank" title="Instagram">
+            <img
+                width="24"
+                alt="Instagram"
+                src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
+            />
+        </a>
+    </p>
+</div>
 
 <div>
     <h3>I am best in ❤️</h3>
