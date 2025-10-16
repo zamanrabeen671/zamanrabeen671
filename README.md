@@ -138,6 +138,6 @@
  
 <div align="center">
   <h3>🔥 GitHub Streak & Contributions</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zamanrabeen671&theme=nightowl" alt="zamanrabeen671's GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=zamanrabeen671" alt="zamanrabeen671's GitHub streak" />
 </div>
 </div>
