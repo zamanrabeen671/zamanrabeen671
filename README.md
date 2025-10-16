@@ -49,7 +49,38 @@
     </p>
 </div>
 
-
+<div>
+    <h3>Other tech stacks I work with ✅</h3>
+    <p>
+        <img src="https://img.shields.io/badge/Flask-000000.svg?style=flask&logo=Flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=flat&logo=C-Sharp&logoColor=white" alt="C Sharp" />
+        <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=flat&logo=dotnet&logoColor=white" alt="dotnet" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=flat&logo=Microsoft-SQL-Server&logoColor=white" alt="Microsoft SQL Server" />
+        <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?style=flat&logo=Amazon-DynamoDB&logoColor=white" alt="DynamoDB" />
+        <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=flat&logo=Prisma&logoColor=white" alt="Prisma" />
+        <img src="https://img.shields.io/badge/Serverless-FD5750.svg?style=flat&logo=Serverless&logoColor=white" alt="Serverless" />
+        <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue" />
+        <img src="https://img.shields.io/badge/Nuxt.js-00DC82.svg?style=flat&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
+        <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=Vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=flat&logo=PWA&logoColor=white" alt="PWA" />
+        <img src="https://img.shields.io/badge/MUI-007FFF.svg?style=flat&logo=MUI&logoColor=white" alt="MUI" />
+        <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="Storybook" />
+        <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white" alt="socket.io" />
+        <img src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=redux&logoColor=white" alt="Electron" />
+        <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=flat&logo=GraphQL&logoColor=white" alt="GraphQL" />
+        <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Apache-D22128.svg?style=flat&logo=Apache&logoColor=white" alt="Apache" />
+        <img src="https://img.shields.io/badge/NGINX-009639.svg?style=flat&logo=NGINX&logoColor=white" alt="NGINX" />
+        <img src="https://img.shields.io/badge/Elasticsearch-005571.svg?style=flat&logo=Elasticsearch&logoColor=white" alt="Elasticsearch" />
+        <img src="https://img.shields.io/badge/Graylog-FF3633.svg?style=flat&logo=Graylog&logoColor=white" alt="Graylog" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=Kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=flat&logo=Amazon-AWS&logoColor=white" alt="AWS" />
+    </p>
+</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zamanrabeen671&show_icons=true&locale=en&layout=compact" alt="zamanrabeen671" /></p>
 
