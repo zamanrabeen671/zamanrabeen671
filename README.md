@@ -7,10 +7,6 @@
             I'm <b>'m MD Kamruzzaman</b>. Self-taught programmer, an excellent debugger 🔬, problem solver, quick learner, and 👩🏽‍💻 Full Stack Software Engineer with a can-do attitude. <br /> <br />
             I primarily immerse myself in the realm of JavaScript-based technology, where my expertise thrives, and occasionally venturing into the world of Python-based technology.
         </p>
-        <p>
-            <img src="https://komarev.com/ghpvc/?username=zamangit79&color=brightgreen&label=Profile+Views&style=flat" alt="Profile Views" />
-            <img src="https://img.shields.io/github/followers/zamangit79?label=Followers&style=social" alt="Followers" />
-        </p>
     </span>
 </div>
 <h2><a href="https://drive.google.com/uc?export=download&amp;id=140tN0TTAbMx2NSnMo8-JElVWfy88TgVh" className="btn btn-outline-info">Donwload My Resume</a></h2>
