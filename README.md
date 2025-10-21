@@ -128,7 +128,6 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=zamanrabeen671&show_icons=true&count_private=true&theme=nightowl" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamanrabeen671&theme=nightowl" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=zamanrabeen671&theme=nightowl" />
     <br />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=zamanrabeen671&theme=nightowl" alt="GitHub Activity Graph" />
     <br />
