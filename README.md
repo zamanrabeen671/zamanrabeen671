@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zamanrabeen671" alt="zamanrabeen671" /></a> </p>
 
-- 🌱 I’m currently working on **AWS WEB Services, Typescript, React JS, Node JS, Express JS, Nest JS , MySQL, MongoDB**
+- 🌱 I’m currently working on **AWS WEB Services, TypeScript, React JS, Node JS, Express JS, Nest JS, PostgreSQL, MySQL, DynamoDB, Elasticsearch, Redis, RabbitMQ, Microservices, Docker, Kubernetes **
 
 - 👨‍💻 All of my projects are available at [https://rabeen-portfolio.netlify.app/](https://rabeen-portfolio.netlify.app/)
 
